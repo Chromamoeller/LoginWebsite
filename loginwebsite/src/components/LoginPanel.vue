@@ -17,7 +17,7 @@ export default {
   components: {
     UsernameInputField,
     PasswordInputField,
-    SummitButton
+    SummitButton,
   }
 
 }
@@ -25,11 +25,11 @@ export default {
 
 <style scoped>
 .panel {
-  width: 600px;
-  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.7);
+  width: 300px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
   height: 400px;
   margin-top: 100px;
-  background-color: rgba(66, 100, 234, 0.8);
+  background-color: rgba(221, 221, 221, 0.8);
   border-radius: 40px;
 }
 </style>
